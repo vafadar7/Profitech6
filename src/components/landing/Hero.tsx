@@ -76,10 +76,6 @@ export default function Hero() {
             <div className="flex items-center gap-2">
               <span className="px-2 py-1 bg-accent/20 text-accent text-xs rounded-full">Stokda var</span>
               <span className="text-white/60 text-xs">+500 məhsul</span>
-            </div>
-          </motion.div>
-        </div>
-      </motion.div>
 
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
